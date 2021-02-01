@@ -1,0 +1,12 @@
+{
+  "name": "coffeebank",
+  "version": "1.0.0",
+  "description": "Projeto de conta corrente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Walter",
+  "license": "ISC",
+  "type": "module"
+}
